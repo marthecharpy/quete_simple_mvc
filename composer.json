@@ -1,0 +1,16 @@
+{
+    "name": "marthe/quete_simple_mvc",
+    "description": "projet quete MVC2",
+    "authors": [
+        {
+            "name": "marthecharpy",
+            "email": "marthe.charpy@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+        	"": "src/"
+    	}
+    }
+}
